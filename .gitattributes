@@ -1,0 +1,2 @@
+backend/model/isl_model.pkl filter=lfs diff=lfs merge=lfs -text
+backend/datasets/hands/Indian[[:space:]]Sign[[:space:]]Language[[:space:]]Gesture[[:space:]]Landmarks.csv filter=lfs diff=lfs merge=lfs -text
