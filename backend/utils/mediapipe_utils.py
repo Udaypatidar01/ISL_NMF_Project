@@ -1,0 +1,1 @@
+print("MediaPipe Utils Loaded")
